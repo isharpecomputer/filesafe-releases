@@ -1,0 +1,8 @@
+{
+  "version": "0.3.0",
+  "installerUrl": "https://github.com/isharpecomputer/filesafe-releases/releases/download/v0.3.0/FileSafe-Setup-0.3.0.exe",
+  "sha256": "80069D68CEAD7E9FAFEDABB947CF7DAB563F72F23AC86038930679712E034175",
+  "sizeBytes": 52856269,
+  "releasedUtc": "2026-10-15T18:42:18Z",
+  "notes": "Automatic updates (Settings \u003E Check for updates / Update now). Sync Documents, Pictures, Desktop and other folders across your computers, with a warning when OneDrive or another sync program already looks after a folder. A reminder when your FileSafe is full."
+}
