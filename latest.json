@@ -1,8 +1,8 @@
 {
-  "version": "0.4.1",
-  "installerUrl": "https://github.com/isharpecomputer/filesafe-releases/releases/download/v0.4.1/FileSafe-Setup-0.4.1.exe",
-  "sha256": "515AD2DAC4120A58A03A981DBA1AE75D9D118618C75730B8A54B617F4427F665",
-  "sizeBytes": 56504273,
-  "releasedUtc": "2026-10-15T22:39:36Z",
-  "notes": "Never lets an older version replace a newer one: when two computers both change a file, the newer one keeps its name and the older is kept as an \u0027older copy\u0027; FileSafe also re-checks right before replacing, deleting or uploading anything. Asks before combining a folder with another computer\u0027s copy."
+  "version": "0.4.2",
+  "installerUrl": "https://github.com/isharpecomputer/filesafe-releases/releases/download/v0.4.2/FileSafe-Setup-0.4.2.exe",
+  "sha256": "5297966E41B5871A286D70EFB532C0916A558476B6D94DBB06B6CA3862914EC3",
+  "sizeBytes": 56514756,
+  "releasedUtc": "2026-10-15T22:51:10Z",
+  "notes": "Settings \u003E Folders: Remove from FileSafe takes an extra folder out of FileSafe for all your computers. Each computer keeps its own copy of the files; adding the folder again later brings it back."
 }
