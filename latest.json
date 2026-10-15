@@ -1,8 +1,8 @@
 {
-  "version": "0.4.0",
-  "installerUrl": "https://github.com/isharpecomputer/filesafe-releases/releases/download/v0.4.0/FileSafe-Setup-0.4.0.exe",
-  "sha256": "B95396B85801DE8E963FB2C420AACDEEE0CD7A0C6B8F7E3ACF7090A7C006D9BA",
-  "sizeBytes": 56497382,
-  "releasedUtc": "2026-10-15T20:43:34Z",
-  "notes": "File Explorer shows FileSafe\u0027s status on your files and folders (syncing, or in sync), and FileSafe has its own entry in the Explorer sidebar."
+  "version": "0.4.1",
+  "installerUrl": "https://github.com/isharpecomputer/filesafe-releases/releases/download/v0.4.1/FileSafe-Setup-0.4.1.exe",
+  "sha256": "515AD2DAC4120A58A03A981DBA1AE75D9D118618C75730B8A54B617F4427F665",
+  "sizeBytes": 56504273,
+  "releasedUtc": "2026-10-15T22:39:36Z",
+  "notes": "Never lets an older version replace a newer one: when two computers both change a file, the newer one keeps its name and the older is kept as an \u0027older copy\u0027; FileSafe also re-checks right before replacing, deleting or uploading anything. Asks before combining a folder with another computer\u0027s copy."
 }
