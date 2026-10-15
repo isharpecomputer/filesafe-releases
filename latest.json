@@ -1,8 +1,8 @@
 {
-  "version": "0.4.2",
-  "installerUrl": "https://github.com/isharpecomputer/filesafe-releases/releases/download/v0.4.2/FileSafe-Setup-0.4.2.exe",
-  "sha256": "5297966E41B5871A286D70EFB532C0916A558476B6D94DBB06B6CA3862914EC3",
-  "sizeBytes": 56514756,
-  "releasedUtc": "2026-10-15T22:51:10Z",
-  "notes": "Settings \u003E Folders: Remove from FileSafe takes an extra folder out of FileSafe for all your computers. Each computer keeps its own copy of the files; adding the folder again later brings it back."
+  "version": "0.4.3",
+  "installerUrl": "https://github.com/isharpecomputer/filesafe-releases/releases/download/v0.4.3/FileSafe-Setup-0.4.3.exe",
+  "sha256": "A609BC18689874E45D833DD5FE677591AD77DEE3A9A6D82AE5A6355B45ADEED4",
+  "sizeBytes": 56493886,
+  "releasedUtc": "2026-10-15T22:57:15Z",
+  "notes": "Tidier folder controls in Settings: Stop syncing and Remove side by side."
 }
