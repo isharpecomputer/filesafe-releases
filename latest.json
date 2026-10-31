@@ -1,8 +1,8 @@
 {
-  "version": "0.5.0",
-  "installerUrl": "https://github.com/isharpecomputer/filesafe-releases/releases/download/v0.5.0/FileSafe-Setup-0.5.0.exe",
-  "sha256": "D9F68AD01737AF681B444ABC424EE8CDF0BFA3643232A840C06394DDB861AAF9",
-  "sizeBytes": 56517526,
-  "releasedUtc": "2026-10-31T13:55:41Z",
-  "notes": "Works with SystemCare: SystemCare can set FileSafe up and show its status. Turns off OneDrive on new installs (it fights FileSafe over the same folders), after downloading any files only in OneDrive\u0027s cloud."
+  "version": "0.6.0",
+  "installerUrl": "https://github.com/isharpecomputer/filesafe-releases/releases/download/v0.6.0/FileSafe-Setup-0.6.0.exe",
+  "sha256": "75B741069C33A0055EEB2E5E3D5CEA7AEB01D4D36EEC6FCE78911E8CFC014EE1",
+  "sizeBytes": 56521562,
+  "releasedUtc": "2026-10-31T15:09:08Z",
+  "notes": "Each computer can keep its own backup, or share one of your other computers\u0027 backups. Settings can copy another computer\u0027s backup to this one."
 }
