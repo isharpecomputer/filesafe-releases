@@ -1,8 +1,8 @@
 {
-  "version": "0.4.3",
-  "installerUrl": "https://github.com/isharpecomputer/filesafe-releases/releases/download/v0.4.3/FileSafe-Setup-0.4.3.exe",
-  "sha256": "A609BC18689874E45D833DD5FE677591AD77DEE3A9A6D82AE5A6355B45ADEED4",
-  "sizeBytes": 56493886,
-  "releasedUtc": "2026-10-15T22:57:15Z",
-  "notes": "Tidier folder controls in Settings: Stop syncing and Remove side by side."
+  "version": "0.5.0",
+  "installerUrl": "https://github.com/isharpecomputer/filesafe-releases/releases/download/v0.5.0/FileSafe-Setup-0.5.0.exe",
+  "sha256": "D9F68AD01737AF681B444ABC424EE8CDF0BFA3643232A840C06394DDB861AAF9",
+  "sizeBytes": 56517526,
+  "releasedUtc": "2026-10-31T13:55:41Z",
+  "notes": "Works with SystemCare: SystemCare can set FileSafe up and show its status. Turns off OneDrive on new installs (it fights FileSafe over the same folders), after downloading any files only in OneDrive\u0027s cloud."
 }
